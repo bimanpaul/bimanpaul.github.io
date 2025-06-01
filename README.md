@@ -1,13 +1,11 @@
 ## IoT Engineer
 
 #### Skills: IoT Protocols, Embedded System | Linux | IoT System Design | Bluetooth | C/CPP
-- https://github.com/bimanpaul
-- https://www.hackerrank.com/profile/bimanpaul
-- https://codingcraftsmenship.wordpress.com/
-- http://www.linkedin.com/in/bimanpaul
-
-## PORTFOLIO
-https://bimanpaul.github.io/portfolio
+- Portfolio: [https://bimanpaul.github.io]
+- Github: [https://github.com/bimanpaul]
+- Hackerrank: [https://www.hackerrank.com/profile/bimanpaul]
+- Blog: [https://codingcraftsmenship.wordpress.com/]
+- Linkedin: [http://www.linkedin.com/in/bimanpaul]
 
 ## Education
 - M.Tech., Computer Science	| IIIT Bangalore (_July 2021_)
