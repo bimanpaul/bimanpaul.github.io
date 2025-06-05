@@ -36,6 +36,33 @@ International Publication No. WO 2023/191432 A1, 5 Oct 2023
 - "Roster Verification Tool" using Java, MySql and JExcel API
 - Upgrade of more than 30 SAP Sandbox, Development & Production Systems.
 
+## SIGNIFICANT ACHIEVEMENTS
+- Citizen Award at Samsung for Thread Connection Map in Dec 2024.
+- Spot Award at Samsung R&D Institute for implementation of Zero Step Onboarding  in Jul 2022.
+- Spot Award at Samsung for demonstrating Self Onbording  in Sept 2021.
+- Citizen Award at Samsung R&D Institute for ST Device SDK bringup on ARMmbed in Sept 2020.
+- Spot Award at Samsung R&D Institute for improving accuracy of Presence detection to more than 95% in April 2019.
+- Spot Award at Samsung R&D Institute  for implementing Application for Object Push Profile on Samsung Z3 in November 2015.
+- Employee of the Month at Samsung R&D Institute for enhancing throughput of SPP on Tizen Platform in March 2014.
+- Finalist in The Great Mind Challenge-2008 organized by IBM India.
+
+## SKILLS
+- Programming Language: C(Proficient),   C++(Intermediate), Java(Intermediate), Rust(Beginner)
+- Debugging: GDB, valgrind, openOCD
+- IoT Protocol: MQTT, HTTP, SNTP, DHCP, ARP, OCF, COAP, mDNS, SRP
+- IoT Peripheral: QSPI, UART, SPI
+- IoT OS: freertos, ARMmbed, TizenRT
+- IoT HW: ESP32, STM32, Rpi, Cy8cproto
+- Bluetooth:  Bluez, Obexd, BLE, GAP, GATT, PBAP, MAP, OPP, FTP, A2DP, AVRCP, ATT, SDP, L2CAP, RFComm
+- WiFi:  WPA3, wpa_supplicant
+- IoT Radio: Thread, Zigbee
+- IoT Security: mbedTLS, TLS 1.2
+- Tools: Wireshark, hcidump, PTS, tcpdump
+- Scripting: Shell Script, Python
+- Unit Test: cmocka, gtest, gcov, lcov
+- DevOp: jenkins, docker
+- SCM: git, gerrit, github, gitlab, P4
+
 ## Languages
 English, Hindi, Bengali
 
